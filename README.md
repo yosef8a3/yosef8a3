@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yosef8a3/yosef8a3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
